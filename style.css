@@ -1,0 +1,82 @@
+@charset "UTF-8";
+header {
+  border: 3px solid red;
+  height: 1024px;
+  top: -519px;
+  left: -731px;
+  color: #ffffff;
+  justify-content: space-between;
+}
+
+.cabecalho {
+  border: 3px solid green;
+  display: flex;
+  justify-content: space-between; /* Espaça o conteúdo de forma que o h2 fica à esquerda e os <li> à direita */
+  align-items: center; /* Alinha verticalmente os itens */
+  padding: 20px 70px; /* Espaçamento nas laterais */
+}
+
+.cabecalho h2 {
+  color: #000000;
+  font-size: 24px; /* Tamanho de fonte para o título */
+}
+
+.cabecalho a {
+  text-decoration: none; /* Remover sublinhado dos links */
+}
+
+.cabecalho ul {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.cabecalho li {
+  margin-left: 20px; /* Espaçamento entre os itens da lista */
+}
+
+.contato {
+  margin-left: 60px;
+}
+
+.portologistica {
+  display: flex;
+  border: 3px solid red;
+  height: 634px;
+  top: 155px;
+  background-image: url(./imagens/background\ \(1\).png);
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  width: 569px;
+  height: 142px;
+  justify-content: flex-start;
+  margin-left: 200px;
+  align-items: center;
+  font-weight: 700;
+  size: 96px;
+  line-height: 142.27px;
+}
+
+.primeiroh3 {
+  width: 465px;
+  height: 47px;
+  top: 449px;
+  left: 127px;
+  font-weight: 300;
+  size: 32px;
+  line-height: 47.42px;
+}
+
+.servicos {
+  height: 59px;
+  width: 251px;
+  margin-left: 20px;
+  top: 526px;
+  left: 152px;
+  background-color: #0016df;
+  color: #ffffff;
+}/*# sourceMappingURL=style.css.map */
