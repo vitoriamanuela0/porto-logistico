@@ -1,10 +1,10 @@
-# PortoLogística
+# PortoLogística 🚢
 
 PortoLogística é um projeto desenvolvido para aprimorar meus conhecimentos em HTML e SCSS, como parte do curso que estou realizando pela Vai na Web, com o apoio da Wilson Son's. O objetivo deste projeto é criar uma página web responsiva e funcional utilizando essas tecnologias, com foco na estruturação da interface e na estilização.
 
 Este repositório contém o código-fonte da página, incluindo a estrutura de HTML e os estilos em SCSS.
 
-## Funcionalidades
+## Funcionalidades 💻
 
 - **Cabeçalho e Menu de Navegação**: Um cabeçalho contendo o nome "PortoLogística" e links de navegação para outras seções da página.
 - **Seção de Gestão Portuária**: Explicação sobre o sistema de gestão portuária e um destaque para a imagem do processo.
@@ -12,7 +12,7 @@ Este repositório contém o código-fonte da página, incluindo a estrutura de H
 - **Atendimento Comercial**: Seção para contato com as unidades da PortoLogística e formulário de envio de mensagens.
 - **Rodapé**: Informação de copyright com o link para o meu perfil no GitHub.
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 🔧
 
 - **HTML**: Estrutura da página, organização das seções e conteúdo do site.
 - **SCSS (CSS)**: Estilos para deixar a página mais bonita e responsiva.
@@ -22,14 +22,14 @@ Este repositório contém o código-fonte da página, incluindo a estrutura de H
   - **VSCode**
   - **Git**
  
-    1. **Clone o repositório:**
+    1. **Clone o repositório: 📂**
    
    ```bash
    https://github.com/vitoriamanuela0/porto-logistico
 
-## Estrutura de Conteúdo
+## Estrutura de Conteúdo 🏗️
 
-O projeto está dividido em várias seções importantes, que são:
+O projeto está dividido em várias seções importantes, que são: 📝
 
 ## 1. Cabeçalho (header)
 
