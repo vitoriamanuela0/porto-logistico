@@ -58,19 +58,19 @@ O projeto está dividido em várias seções importantes, que são:
 - **Monitoramento: Acompanhamento em tempo real das operações portuárias.**
 
 ## 5. Atendimento e Comercial (#atendimento)
-** Seção com informações de contato das diferentes unidades e um formulário para envio de mensagens.**
+**Seção com informações de contato das diferentes unidades e um formulário para envio de mensagens.**
 
-**- Unidades de atendimento, com localização:** 
-- ** Niterói;** 
-- ** Ilha da Conceição;**
-- ** Santos, e**
-- ** Caju.**
+**Unidades de atendimento, com localização:** 
+- **Niterói;** 
+- **Ilha da Conceição;**
+- **Santos, e**
+- **Caju.**
   
 **Formulário de contato para envio de:**
-- ** Nome;**
-- ** e-mail;**
--  ** telefone e**
--  ** mensagem.**
+- **Nome;**
+- **E-mail;**
+-  **Telefone e**
+-  **Mensagem.**
   
 ## 6. Rodapé (footer)
-** O rodapé contém o texto de copyright, com link para o repositório do GitHub da autora, Vitória Manuela.**
+**O rodapé contém o texto de copyright, com link para o repositório do GitHub da autora, Vitória Manuela.**
