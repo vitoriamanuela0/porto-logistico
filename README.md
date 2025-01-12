@@ -33,31 +33,37 @@ O projeto está dividido em várias seções importantes, que são:
 
 ## 1. Cabeçalho (header)
 
-** O cabeçalho contém o nome do projeto "PortoLogística" e um menu de navegação com links para as seções da página.**
-** Menu de navegação: Links para "Home", "Mais", "Sobre" e "Contato".**
-** Botão de contato: Link direto para a página de atendimento e comercial.**
+**O cabeçalho contém o nome do projeto "PortoLogística" e um menu de navegação com links para as seções da página.**
+**Menu de navegação: Links para "Home", "Mais", "Sobre" e "Contato".**
+**Botão de contato: Link direto para a página de atendimento e comercial.**
 
 ## 2. Tela Inicial (#titulo)
-** Título: Apresenta o nome "PortoLogística".**
-** Descrição: Uma breve descrição do serviço.**
-** Botão de serviços: Link para direcionar os usuários para os serviços oferecidos.**
+**Título: Apresenta o nome "PortoLogística".**
+**Descrição: Uma breve descrição do serviço.**
+**Botão de serviços: Link para direcionar os usuários para os serviços oferecidos.**
 
 ![image](https://github.com/user-attachments/assets/5f493422-a15e-4a96-8a28-d6d8f87ad936)
 
 ## 4. Gestão Portuária (.gestao)
-** A seção de gestão portuária explica como a plataforma ajuda a otimizar as operações portuárias.**
+**A seção de gestão portuária explica como a plataforma ajuda a otimizar as operações portuárias.**
 
-** Texto explicativo: Descrição das soluções oferecidas pela PortoLogística.**
-** Imagem: Representa a movimentação de containers e navios no porto.**
+**Texto explicativo: Descrição das soluções oferecidas pela PortoLogística.**
+**Imagem: Representa a movimentação de containers e navios no porto.**
+
+![image](https://github.com/user-attachments/assets/6f267f85-1c04-4bc4-bc9f-4bd3edf3ed58)
+
 
 ## 5. Nossas Soluções (#solucoes)
-** Exibe três divisões com as principais soluções do sistema:**
+**Exibe três divisões com as principais soluções do sistema:**
 
-- ** Containers: Aluguel e disponibilidade.**
+- **Containers: Aluguel e disponibilidade.**
 - **Navios: Mais de 1000 navios disponíveis.**
 - **Monitoramento: Acompanhamento em tempo real das operações portuárias.**
 
-## 5. Atendimento e Comercial (#atendimento)
+  ![image](https://github.com/user-attachments/assets/8efbccf3-2e9f-44f8-99cc-16a2a26993e7)
+
+
+## 6. Atendimento e Comercial (#atendimento)
 **Seção com informações de contato das diferentes unidades e um formulário para envio de mensagens.**
 
 **Unidades de atendimento, com localização:** 
@@ -71,6 +77,12 @@ O projeto está dividido em várias seções importantes, que são:
 - **E-mail;**
 -  **Telefone e**
 -  **Mensagem.**
+
+ ![image](https://github.com/user-attachments/assets/e0d2d4f1-1564-46c2-b7a1-e22413742f3d)
+
   
 ## 6. Rodapé (footer)
 **O rodapé contém o texto de copyright, com link para o repositório do GitHub da autora, Vitória Manuela.**
+
+![image](https://github.com/user-attachments/assets/a3709cee-1add-446b-a0d3-8ce38648b00e)
+
